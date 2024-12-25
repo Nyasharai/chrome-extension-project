@@ -11,15 +11,13 @@ This Chrome extension automates the process of sending connection requests on Li
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository and navigate to the project directory:
    ```bash
    git clone https://github.com/Nyasharai/chrome-extension-project.git
    cd chrome-extension-project
-
-2. Navigate to the project directory: cd chrome-extension-project
-3. Open Google Chrome and navigate to chrome://extensions.
-4. Enable "Developer mode" by toggling the switch at the top right corner.
-5. Click on "Load unpacked" and select the cloned repository folder.
+2. Open Google Chrome and navigate to chrome://extensions.
+3. Enable "Developer mode" by toggling the switch at the top right corner.
+4. Click on "Load unpacked" and select the cloned repository folder.
 
 ## Usage
 - Open LinkedIn and navigate to the page where you want to connect with users.
