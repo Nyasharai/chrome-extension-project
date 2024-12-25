@@ -14,6 +14,7 @@ This Chrome extension automates the process of sending connection requests on Li
 1. Clone the repository:
    ```bash
    git clone https://github.com/Nyasharai/chrome-extension-project.git
+   cd chrome-extension-project
 
 2. Navigate to the project directory: cd chrome-extension-project
 3. Open Google Chrome and navigate to chrome://extensions.
