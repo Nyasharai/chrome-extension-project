@@ -1,4 +1,4 @@
-# Chrome Extension Project
+# LinkedIn Auto Connect Chrome Extension
 
 This Chrome extension automates the process of sending connection requests on LinkedIn by clicking the "Connect All" button on the active tab. It simplifies the networking process, allowing users to connect with multiple people quickly.
 
