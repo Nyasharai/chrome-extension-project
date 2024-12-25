@@ -15,8 +15,7 @@ This Chrome extension automates the process of sending connection requests on Li
    ```bash
    git clone https://github.com/Nyasharai/chrome-extension-project.git
 
-2. Navigate to the project directory:
-   cd chrome-extension-project
+2. Navigate to the project directory: cd chrome-extension-project
 3. Open Google Chrome and navigate to chrome://extensions.
 4. Enable "Developer mode" by toggling the switch at the top right corner.
 5. Click on "Load unpacked" and select the cloned repository folder.
@@ -27,4 +26,4 @@ This Chrome extension automates the process of sending connection requests on Li
 - Click the "Start Connecting" button to begin the automated connection process.
 - The extension will attempt to click the "Connect All" button on the page.
 
-# Project Link: https://github.com/Nyasharai/chrome-extension-project
+## Project Link: https://github.com/Nyasharai/chrome-extension-project
